@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+form{
+	
+	width: 300px;
+	height:auto;
+	border: 3px #666666 outset;
+	
+}
+p{
+	font-size:34px;
+	color:#000;
+	text-align:center;
+	
+}
+input[type="text"], [type="password"]{
+	background-color:#CCC;
+	opacity:0.8;
+	padding: 3px;
+}
+input[type="text"]
+{
+    background: url(../../img/usuario.jpg) no-repeat scroll 0 0 transparent;
+    
+}

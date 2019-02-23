@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:IdVehiculoCliente;datatype:int,name:TipoV;datatype:string,name:Placas;datatype:string,name:Marca;datatype:string,name:Referencia;datatype:string,name:Color;datatype:string,name:Modelo;datatype:string,name:Descripcion;datatype:string,name:IdCliente;datatype:int" />
+	<infoitem key="UD_tipo" value="name:nombre_tipov;datatype:string" />
+	<infoitem key="UD_documento" value="name:nombre_documento;datatype:string" />
+	<infoitem key="UD_cliente" value="name:IdCliente;datatype:int,name:DocumentoCliente;datatype:int" />
+</info>
